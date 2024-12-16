@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../ESP32-S3-Touch-LCD-1.28-Demo/Arduino/examples/LVGL_Arduino"
+		},
+		{
+			"name": "241207-094019-esp32-s3-devkitm-1",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
